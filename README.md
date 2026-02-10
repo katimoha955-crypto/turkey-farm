@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { PRODUCTS, FAQ_LIST, BRAND_NAME, REGION, OWNER_NAME, PHONE } from './constants';
 import { AIConsultant } from './components/AIConsultant';
